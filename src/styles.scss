@@ -1,0 +1,29 @@
+@import "assets/styles/theme/light";
+@import "~@angular/material/theming";
+@import "assets/styles/core/index";
+
+@include app-core();
+@include mat-core();
+
+$app-theme: mat-light-theme($app-primary, $app-accent, $app-warn);
+
+@include angular-material-theme($app-theme);
+
+html, body {
+  height: 100%;
+  overflow: auto;
+}
+
+body {
+  margin: 0;
+  background-color: map-get($app-background, background);
+  color: map-get($app-foreground, text);
+}
+
+.mat-input-flex {
+  &.mat-form-field-flex {
+    padding: 4px;
+    background: rgba(255, 255, 255, .1);
+    border-radius: 4px;
+  }
+}

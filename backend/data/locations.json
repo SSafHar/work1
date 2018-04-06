@@ -1,0 +1,30 @@
+[
+  {
+    "organization_name": "Cerberus",
+    "country": "Armenia",
+    "imageUrl": "../../assets/images/armenia-map.png",
+    "city": "Yerevan",
+    "index": "0051",
+    "street": "Lorem",
+    "building": 5,
+    "phone": 123,
+    "coordinates": {
+      "lat": 40.0691,
+      "lng": 45.0382
+    }
+  },
+  {
+    "organization_name": "Cerberus",
+    "country": "Canada",
+    "imageUrl": "../../assets/images/canada-map.png",
+    "city": "Toronto",
+    "index": "1234",
+    "street": "Lorem",
+    "building": 5,
+    "phone": 123,
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    }
+  }
+]

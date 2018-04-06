@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "chart": "../../assets/images/line-chart.png"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "chart": "../../assets/images/bar-chart.png"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "chart": "../../assets/images/polar-area-chart.png"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "chart": "../../assets/images/radar-chart.png"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "chart": "../../assets/images/doughnut-chart.png"
+  }
+]

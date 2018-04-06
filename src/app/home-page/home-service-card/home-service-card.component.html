@@ -1,0 +1,12 @@
+<mat-card class="service-card" *ngFor="let card of homeServiceCards">
+  <img mat-card-image [src]="card.imageUrl" alt="member">
+  <mat-card-content>
+    <h4 class="name">{{card.name}}</h4>
+    <p class="description">{{card.description}}</p>
+    <p class="description">{{card.description}}</p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button color="accent">View more</button>
+    <i class="icon icon-view"></i>
+  </mat-card-actions>
+</mat-card>

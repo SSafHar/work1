@@ -1,0 +1,42 @@
+@import "../../../assets/styles/theme/light";
+
+:host {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 150px;
+  padding: 20px 20px 20px 80px;
+  background: mat-color($mat-grey, 400);
+}
+
+.items {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 10px 0;
+
+  &:nth-child(2) {
+    justify-content: flex-end;
+    align-items: center;
+    border-right: 1px solid;
+    border-left: 1px solid;
+  }
+
+  &:nth-child(3) {
+    align-items: flex-end;
+    text-align: right;
+  }
+
+  .links {
+    color: black;
+  }
+
+  .icon {
+    width: 40px;
+    height: 40px;
+    font-size: 40px;
+  }
+}
+

@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Angular",
+    "imageUrl": "../../assets/images/angular.png",
+    "backgroundimageUrl": "../../assets/images/angl-back.png",
+    "theme": "#ff3f46",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "NodeJS",
+    "imageUrl": "../../assets/images/nodejs.png",
+    "backgroundimageUrl": "../../assets/images/node-back.png",
+    "theme": "#7dff00",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "PHP",
+    "imageUrl": "../../assets/images/php.png",
+    "backgroundimageUrl": "../../assets/images/php-back.png",
+    "theme": "#4d9de0",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "Angular",
+    "imageUrl": "../../assets/images/angular.png",
+    "backgroundimageUrl": "../../assets/images/angl-back.png",
+    "theme": "#ff3f46",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "NodeJS",
+    "imageUrl": "../../assets/images/nodejs.png",
+    "backgroundimageUrl": "../../assets/images/node-back.png",
+    "theme": "#7dff00",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "PHP",
+    "imageUrl": "../../assets/images/php.png",
+    "backgroundimageUrl": "../../assets/images/php-back.png",
+    "theme": "#4d9de0",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "Angular",
+    "imageUrl": "../../assets/images/angular.png",
+    "backgroundimageUrl": "../../assets/images/angl-back.png",
+    "theme": "#ff3f46",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "NodeJS",
+    "imageUrl": "../../assets/images/nodejs.png",
+    "backgroundimageUrl": "../../assets/images/node-back.png",
+    "theme": "#7dff00",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  },
+  {
+    "title": "PHP",
+    "imageUrl": "../../assets/images/php.png",
+    "backgroundimageUrl": "../../assets/images/php-back.png",
+    "theme": "#4d9de0",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "price": 1200,
+    "tags": [
+      {
+        "label": "tag0",
+        "color": "primary"
+      }, {
+        "label": "tag1",
+        "color": "accent"
+      }, {
+        "label": "tag2",
+        "color": "primary"
+      }
+    ]
+  }
+]

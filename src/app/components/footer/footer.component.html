@@ -1,0 +1,21 @@
+<div class="col-4 items">
+  <a *ngFor="let item of footerItems.menu"
+     class="links"
+     [routerLink]="item.link"
+     routerLinkActive>
+    <p>{{item.label}}</p>
+  </a>
+</div>
+<div class="col-4 items">
+  <p>{{footerItems.copyright}}</p>
+</div>
+<div class="col-4 items">
+  <h3>{{footerItems.name}}</h3>
+  <p>Phone: {{footerItems.phone}}</p>
+  <div class="social">
+    <i class="icon icon-github"></i>
+    <i class="icon icon-github"></i>
+    <i class="icon icon-github"></i>
+  </div>
+</div>
+

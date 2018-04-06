@@ -1,0 +1,20 @@
+:host {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 30px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 20px;
+}
+
+.business-item:nth-child(1), .business-item:nth-child(2) {
+  img {
+    width: 370px;
+    height: 250px;
+  }
+}

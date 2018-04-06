@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "imageUrl": "../../assets/images/team-member.png",
+    "position": "programmer",
+    "experience": "5 years",
+    "location": "Yerevan, Armenia",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At atque",
+    "nickname": "the_best"
+  }
+]
